@@ -1,0 +1,7 @@
+{
+  "name": "QRcodegenerator",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
